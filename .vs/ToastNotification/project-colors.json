@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deea8e21-e665-4934-b47d-9e667c52a07a": {
+      "ProjectGuid": "deea8e21-e665-4934-b47d-9e667c52a07a",
+      "DisplayName": "ToastNotification",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
